@@ -12,7 +12,7 @@ Lead developer: Grace Zhang (1041602@lwsd.org)
 
 Hotlines: Emily Ma (1060660@lwsd.org)
 
-Information: Sirjana Kaur (1022187@lwsd.org), Nandika Devarajan (1045154@lwsd.org)
+Information: Sirjana Kaur (1022187@lwsd.org), Nandika Devarajan (1045154@lwsd.org), Shikha Joshi (1041323@lwsd.org)
 
 ## License
 This project is Licensed under [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/).
