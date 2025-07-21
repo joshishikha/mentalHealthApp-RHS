@@ -20,8 +20,6 @@ menuLinks.forEach(link => {
     });
 });
 
-/* Edit below */
-
 // Smooth scrolling for navigation links
 document.querySelectorAll('.menu a').forEach(link => {
     link.addEventListener('click', function (e) {
